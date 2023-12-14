@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image:url("https://hanoispiritofplace.com/wp-content/uploads/2018/04/hinh-nen-mau-xanh-dep-de-chiu-cho-may-tinh-cua-ban-16.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.box{
+    margin: 0 auto;
+    width: 600px;
+    height: 1500px;
+    font-size: 24px;
+    line-height: 120px;
+    text-align: center;
+    background-image:url("https://ecpmedia.vn/wp-content/uploads/2019/06/y-nghia-mau-xanh-duong-trong-thiet-ke-do-hoa-3.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px 20px 20px 20px;
+}
+.imageChange{
+    text-align: center;
+    max-width: 400px;
+    height: 250px;
+}
+div{
+    font-size: 40px;
+    border-radius: 20px 20px 20px 20px;
+}
+a{
+    font-size: 20px;
+}
+center{
+    font-size: 100px;
+}
